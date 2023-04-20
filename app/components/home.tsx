@@ -167,9 +167,10 @@ function _Home() {
         className={styles.sidebar + ` ${showSideBar && styles["sidebar-show"]}`}
       >
         <div className={styles["sidebar-header"]}>
-          <div className={styles["sidebar-title"]}>ChatGPT Next</div>
+          <div className={styles["sidebar-title"]}>ChatGPT</div>
           <div className={styles["sidebar-sub-title"]}>
-            Build your own AI assistant.
+            请关注公众号“AIGC” 领取GPT变现资料
+            申请体验GPT4请关注我们
           </div>
           <div className={styles["sidebar-logo"]}>
             <ChatGptIcon />
